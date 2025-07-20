@@ -1,4 +1,4 @@
-const API_KEY = "sk-PASTE_YOUR_KEY_HERE"; // 👈 Paste your OpenAI API key here
+const API_KEY = "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"; // 👈 Paste your OpenAI API key here
 
 async function askQuestion() {
   const question = document.getElementById("questionInput").value;
